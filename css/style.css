@@ -3,7 +3,9 @@
 @import './global/reboot.css';
 @import './global/fonts.css';
 @import './global/visually-hidden.css';
+@import './global/container.css';
+@import './global/header.css';
 
 /* Blocks */
 /* ------------------------------------ */
-
+@import './blocks/header-top.css';
