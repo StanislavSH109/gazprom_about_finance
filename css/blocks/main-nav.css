@@ -25,6 +25,7 @@
 
 .main-nav__list {
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     gap: 16px;
     margin: 0 0 60px 0;
@@ -58,6 +59,7 @@
 
 .main-nav__social-list {
     display: flex;
+    flex-wrap: wrap;
     margin: 0 0 24px 0;
     padding: 0;
     list-style: none;
