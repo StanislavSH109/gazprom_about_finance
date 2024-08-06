@@ -1,32 +1,16 @@
-.cards__list {
-    display: grid;
-    grid-template-columns: repeat(2, 340px);
-    gap: 40px 32px;
-}
-
-.cards__item--flat {
-    grid-column: 1 / 3;
-}
-
-.cards__item--flat .card-content {
-    display: flex;
-    background-color: #F4F6FA;
+.card-content__image {
     border-radius: 16px;
 }
 
-.cards__image {
-    border-radius: 16px;
-}
-
-.cards__image--vertical {
+.card-content__image--vertical {
     margin: 0 0 20px 0;
 }
 
-.cards__image--flat {
+.card-content__image--flat {
     border-radius: 16px 0 0 16px;
 }
 
-.cards__item--flat .card-content__wrapper {
+.card-content__item--flat .card-content__wrapper {
     padding: 20px;
 }
 

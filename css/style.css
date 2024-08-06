@@ -8,8 +8,9 @@
 
 /* Blocks */
 /* ------------------------------------ */
-@import './blocks/block-content.css';
-@import './blocks/main-nav.css';
+@import './blocks/pro-finance.css';
+@import './blocks/sidebar.css';
 @import './blocks/cards.css';
 @import './blocks/card-content.css';
 @import './blocks/header.css';
+@import './blocks/social.css';
