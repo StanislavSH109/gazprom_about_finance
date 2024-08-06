@@ -4,13 +4,12 @@
 @import './global/fonts.css';
 @import './global/visually-hidden.css';
 @import './global/container.css';
-@import './global/header.css';
+
 
 /* Blocks */
 /* ------------------------------------ */
-@import './blocks/header-top.css';
-@import './blocks/header-bottom.css';
 @import './blocks/block-content.css';
 @import './blocks/main-nav.css';
 @import './blocks/cards.css';
 @import './blocks/card-content.css';
+@import './blocks/header.css';
