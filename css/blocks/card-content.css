@@ -1,13 +1,11 @@
 
 .card-content__image {
     border-radius: 16px;
-}
-
-.card-content__image--vertical {
     margin: 0 0 20px 0;
 }
 
-.card-content__image--flat {
+.card-content--flat .card-content__image {
+    margin: 0;
     border-radius: 16px 0 0 16px;
 }
 
@@ -24,7 +22,6 @@
 .card-content--flat .card-content__wrapper {
     padding: 20px 32px;
 }
-
 
 .card-content__top {
     display: flex;
@@ -66,7 +63,6 @@
     line-height: 24px;
     font-weight: 700;
     color: #1E222E;
-    padding: 0;
     margin: 0 0 8px 0;
 }
 
@@ -76,5 +72,4 @@
     font-weight: 400;
     color: #1E222E;
     margin: 0;
-    padding: 0;
 }
